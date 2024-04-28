@@ -1,0 +1,123 @@
+.header {
+  width: 1920px;
+  height: 72px;
+  padding: 16px 368px 16px 368px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid rgb(27, 173, 129);
+}
+.container {
+  width: 1184px;
+  height: 40px;
+  padding: 0px 24px 0px 24px;
+  gap: 0px;
+  display: flex;
+  justify-content: space-between;
+  opacity: 0px;
+  border: 1px solid red;
+}
+.logo {
+  width: 101.36px;
+  height: 25px;
+  padding: 0px 0px 7px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+.logo img {
+  width: 101.36px;
+  height: 18px;
+  gap: 0px;
+  opacity: 0px;
+}
+.menu-items {
+  width: 424px;
+  height: 40px;
+  gap: 0px;
+  opacity: 0px;
+}
+.menu-1 {
+  width: 87px;
+  height: 24px;
+  padding: 0px 32px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+.link-1 {
+  width: 55px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #505256;
+}
+
+.menu-2 {
+  width: 74px;
+  height: 24px;
+  padding: 0px 32px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+.link-2 {
+  width: 42px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #505256;
+}
+.menu-3 {
+  width: 127px;
+  height: 24px;
+  padding: 0px 40px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+.link-3 {
+  width: 87px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+  color: #505256;
+}
+.menu-button {
+  width: 136px;
+  height: 40px;
+  gap: 0px;
+  opacity: 0px;
+}
+.link-button {
+  width: Fixed (136px) px;
+  height: Fixed (40px) px;
+  padding: 8px 24.17px 8px 24.16px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+  background: #f1f2f4;
+}
+.btn::first-line {
+  width: 88px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 13.67px;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: -0.5px;
+  text-align: center;
+  /* background: #505256; */
+}
