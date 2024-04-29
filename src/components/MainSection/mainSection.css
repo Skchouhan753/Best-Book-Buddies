@@ -1,0 +1,139 @@
+.main-section-container {
+  width: 1184px;
+  height: 220px;
+  padding: 0px 24px 0px 24px;
+  gap: 0px;
+  opacity: 0px;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+.heading {
+  width: 597px;
+  height: 72px;
+  padding: 0px 0px 16px 0px;
+  gap: 0px;
+  opacity: 0px;
+  text-align: center;
+  margin: auto;
+  /* border: 1px solid red; */
+}
+.heding h1 {
+  width: 597px;
+  height: 56px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 500;
+  line-height: 56px;
+  text-align: center;
+  color: #000000;
+  
+}
+.content-text {
+  width: 576px;
+  /* height: 100px; */
+  /* padding: 0px 0px 40px 0px; */
+  gap: 0px;
+  opacity: 0px;
+  /* border: 1px solid rgb(224, 132, 12); */
+  margin: auto;
+  
+}
+.content-text h2 {
+  width: 576px;
+  height: 60px;
+  padding: 0px 19.66px 0px 19.66px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 30px;
+  text-align: center;
+  color: #505256;
+  /* border:1px solid green; */
+  /* margin: auto; */
+}
+.main-section-links {
+  /* width: 1136px; */
+  height: 48px;
+  padding: 0px 384px 0px 384px;
+  gap: 0px;
+  opacity: 0px;
+  /* border:1px solid green; */
+}
+.main-section-link-1 {
+  width: 192px;
+  height: 48px;
+  padding: 0px 16px 0px 0px;
+  gap: 0px;
+  opacity: 0px;
+}
+.main-section-link-1 > button {
+  width: 176px;
+  height: 48px;
+  padding: 12px 36.25px 12px 36.25px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  opacity: 0px;
+  background: #0284fe;
+}
+.main-section-link-1 > button::first-line {
+  width: 103px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #ffffff;
+}
+.main-section-link-2 {
+  width: 176px;
+  height: 48px;
+  gap: 0px;
+  opacity: 0px;
+}
+.main-section-link-2 > button {
+  width: 176px;
+  height: 48px;
+  padding: 12px 39.7px 12px 31.69px;
+  gap: 0px;
+  border-radius: 8px 0px 0px 0px;
+  border: 1px 0px 0px 0px;
+  opacity: 0px;
+  border: 1px solid #E1E4E8
+}
+.main-section-link-2 > button::first-line {
+  width: 79px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Roboto;
+  font-size: 13.89px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: center;
+  color: #505256;
+    
+}
+.main-section-link-2 > button > frames {
+  width: 18px;
+  height: 18px;
+  padding: 3.76px 4.27px 3.76px 5.25px;
+  gap: 0px;
+  opacity: 0px;
+  
+}
+.main-section-link-2 > button img {
+  width: 8.48px;
+height: 10.47px;
+top: 3.76px;
+left: 5.25px;
+gap: 0px;
+opacity: 0px;
+/* background: #4E5D78; */
+}

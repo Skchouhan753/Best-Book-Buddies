@@ -1,16 +1,27 @@
 
 import './App.css'
-import Header from './components/Header/Header'
+
+import Fun from './components/fun/Fun'
 
 function App() {
 
 
   return (
     <>
-      <Header/>
-      
+      {/* <Header/>
+      <MainSection/>
+      <SecondMainSection/> */}
+      <Fun/>
     </>
   )
 }
 
 export default App
+
+
+
+
+
+
+
+

@@ -1,0 +1,36 @@
+.mid-section-container {
+  width: 1920px;
+  height: 585px;
+  padding: 96px 368px 0px 368px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid red;
+  
+}
+.div-1 {
+  width: 1184px;
+  height: 489px;
+  padding: 0px 24px 0px 24px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid rgb(151, 10, 207);
+  
+}
+.div-2 {
+  width: 1136px;
+  height: 489px;
+  padding: 0px 96px 169px 96px;
+  gap: 0px;
+  border: 0px 0px 1px 0px;
+  opacity: 0px;
+  border: 1px solid red;
+
+}
+.div-3 {
+  width: 944px;
+  height: 320px;
+  gap: 0px;
+  opacity: 0px;
+  border: 1px solid rgb(10, 187, 149);
+
+}

@@ -66,3 +66,14 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 } */
+/* body{
+  background: #FFFFFF;
+position: relative;
+margin-bottom: 88px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+padding: 16px 0;
+width: 1920px;
+box-sizing: border-box;
+} */

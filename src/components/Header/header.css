@@ -4,7 +4,7 @@
   padding: 16px 368px 16px 368px;
   gap: 0px;
   opacity: 0px;
-  border: 1px solid rgb(27, 173, 129);
+  /* border: 1px solid rgb(27, 173, 129); */
 }
 .container {
   width: 1184px;
@@ -14,7 +14,7 @@
   display: flex;
   justify-content: space-between;
   opacity: 0px;
-  border: 1px solid red;
+  /* border: 1px solid red; */
 }
 .logo {
   width: 101.36px;
@@ -100,8 +100,8 @@
   opacity: 0px;
 }
 .link-button {
-  width: Fixed (136px) px;
-  height: Fixed (40px) px;
+  width: 136px;
+  height: 40px;
   padding: 8px 24.17px 8px 24.16px;
   gap: 0px;
   border-radius: 8px 0px 0px 0px;
